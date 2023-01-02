@@ -1,8 +1,11 @@
-import SignIn from "./pages/Signup";
-
+// import SignIn from "./pages/Signup";
+import Main from "./pages/Main/Main";
 function App() {
   return (
-    <SignIn/>
+    <>
+    {/* <SignIn/> */}
+    <Main/>
+    </>
   );
 }
 
